@@ -1,0 +1,23 @@
+{
+  "name": "rpg-combat-kata-node",
+  "version": "1.0.0",
+  "description": "Boilerplate code for RPG Combat Kata.",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js"
+  ],
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angarg12/rpg-combat-kata-node.git"
+  },
+  "author": "Andres Garcia Garcia",
+  "license": "GPL 3",
+  "homepage": "https://github.com/rpg-combat-kata-node#readme"
+}
